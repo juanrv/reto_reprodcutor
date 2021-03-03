@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Spotfake</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_spotfake">Spotfake</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_biografia">Biografia</string>
+    <string name="menu_artistas">Artistas</string>
+    <string name="titulo_biografia">Biografías</string>
+    <string name="nombre_biografia1">Juan José Restrepo Valencia</string>
+    <string name="desc_biografia1">Me gustan los videojuegos, anime y paseos al campo</string>
+    <string name="nombre_biografia2">Juan Pablo Toro Hurtado</string>
+    <string name="desc_biografia2">Me gustan los videojuegos, montar bicicleta, conocer lugares nuevos</string>
+    <string name="buscar_artista">Artista</string>
+
+    <string name="beatles">The Beatles</string>
+    <string name="poprock">Pop Rock</string>
+    <string name="blackpink">Blackpink</string>
+    <string name="kpop">K-PoP</string>
+    <string name="bts">BTS</string>
+    <string name="katanazero">Katana Zero</string>
+    <string name="electro">Electro</string>
+    <string name="camilosesto">Camilo Sesto</string>
+    <string name="romantica">Romantica</string>
+    <string name="title_activity_cancion">CancionActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="dynamite">Dynamite</string>
+    <string name="hitTheFloor">Hit The Floor</string>
+    <string name="how_you_like_that">How You Like That</string>
+    <string name="el_amor_de_mi_vida">El Amor de Mi Vida</string>
+    <string name="dont_let_me_down">Don\'t Let Me Down</string>
+</resources>
